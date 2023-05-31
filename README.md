@@ -31,15 +31,8 @@ Clone this repository to your local machine.
 
 Ensure you have the necessary dependencies installed by running pip install -r requirements.txt.
 
-Open the cryptocurrency_clustering.ipynb notebook in Jupyter Notebook or JupyterLab.
 
-Follow the step-by-step instructions in the notebook to execute the code cells and analyze the results.
 
-Note: Make sure to have Python 3.x and the required libraries installed for a smooth execution.
-
-Feel free to explore and modify the code as needed to further customize the analysis or apply it to different datasets.
-
-Happy clustering!
 
 
 
